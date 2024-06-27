@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-    color: #4b8b3b;
+    color: #357d8a;
     margin-bottom: 20px;
     font-family: 'Verdana', sans-serif;
 }
@@ -33,7 +33,7 @@ h1 {
 }
 
 .caixa-alternativas button {
-    background-color: #8fbc8f;
+    background-color: #287571;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -45,7 +45,7 @@ h1 {
 }
 
 .caixa-alternativas button:hover {
-    background-color: #6b8e23;
+    background-color: #2f8a91;
 }
 
 .caixa-resultado {
@@ -54,7 +54,7 @@ h1 {
 
 .texto-resultado {
     font-size: 18px;
-    color: #228b22;
+    color: #29a3ac;
 }
 
 @media (max-width: 600px) {
