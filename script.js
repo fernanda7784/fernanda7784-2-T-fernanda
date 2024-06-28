@@ -45,14 +45,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Agricultores estão usando robôs controlados por IA para colher frutas e vegetais. Você acha isso uma boa ideia?",
+        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
         alternativas: [
             {
-                texto: "Sim, pode reduzir o trabalho manual e aumentar a eficiência.",
+                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
                 afirmacao: "positivo"
             },
             {
-                texto: "Não, isso pode tirar empregos de muitos trabalhadores agrícolas.",
+                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
                 afirmacao: "negativo"
             }
         ]
