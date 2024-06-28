@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Uma nova tecnologia de IA está sendo utilizada para monitorar as plantações e prever pragas com antecedência. Qual é a sua opinião sobre isso?",
+        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "É fantástico, isso pode aumentar muito a eficiência da agricultura!",
+                texto: "Isso é maravilhoso!",
                 afirmacao: "positivo"
             },
             {
-                texto: "Tenho preocupações sobre a dependência excessiva de tecnologia.",
+                texto:  "Isso é assustador!",
                 afirmacao: "negativo"
             }
         ]
