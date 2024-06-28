@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "IA está sendo usada para analisar dados do solo e recomendar a quantidade ideal de fertilizantes. Qual é a sua reação?",
+        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
         alternativas: [
             {
                 texto: "Acho que isso pode melhorar muito a saúde do solo e a produtividade.",
