@@ -33,7 +33,7 @@ h1 {
 }
 
 .caixa-alternativas button {
-    background-color: #f60808;
+    background-color: #7e0b0b;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -45,7 +45,7 @@ h1 {
 }
 
 .caixa-alternativas button:hover {
-    background-color: #375bbe;
+    background-color: #a41e1e;
 }
 
 .caixa-resultado {
@@ -54,7 +54,7 @@ h1 {
 
 .texto-resultado {
     font-size: 18px;
-    color: #5570d3;
+    color: #95080f;
 }
 
 @media (max-width: 600px) {
