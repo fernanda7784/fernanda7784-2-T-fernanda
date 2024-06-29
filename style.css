@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Georgia', serif;
-    background-color: #000000;
+    background-color: #57acbd;
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,7 +12,7 @@ body {
 }
 
 .caixa-principal {
-    background-color: #da0000;
+    background-color: #074a56;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -33,7 +33,7 @@ h1 {
 }
 
 .caixa-alternativas button {
-    background-color: #7e0b0b;
+    background-color: #45b1c6;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -45,7 +45,7 @@ h1 {
 }
 
 .caixa-alternativas button:hover {
-    background-color: #a41e1e;
+    background-color: #1e90a4;
 }
 
 .caixa-resultado {
@@ -54,7 +54,7 @@ h1 {
 
 .texto-resultado {
     font-size: 18px;
-    color: #95080f;
+    color: #080808;
 }
 
 @media (max-width: 600px) {
