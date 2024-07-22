@@ -45,15 +45,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Life is Strange aborda temas como bullying, depressão e complexidades nos relacionamentos familiares ao longo da narrativa.?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "positivo"
+                texto: "verdadeiro!",
+                afirmacao: "correto"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "negativo"
+                texto: "falso!",
+                afirmacao: "errado"
             }
         ]
     },
