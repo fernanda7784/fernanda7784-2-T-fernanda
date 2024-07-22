@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Max Caulfield, a protagonista de Life is Strange, descobre que possui o poder de voltar no tempo?"
+        enunciado: "Max Caulfield, a protagonista de Life is Strange, descobre que possui o poder de voltar no tempo? ",
         alternativas: [
             {
                 texto: "verdadeiro!",
@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "O jogo se passa na fictícia cidade de Arcadia Bay, situada no estado do Oregon, nos Estados Unidos?",
+        enunciado: "O jogo se passa na fictícia cidade de Arcadia Bay, situada no estado do Oregon, nos Estados Unidos? ",
         alternativas: [
             {
                 texto: "verdadeiro!",
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Chloe Price, a melhor amiga de Max, desaparece misteriosamente, sendo um dos pontos centrais da trama inicial?",
+        enunciado: "Chloe Price, a melhor amiga de Max, desaparece misteriosamente, sendo um dos pontos centrais da trama inicial? ",
         alternativas: [
             {
                 texto: "verdadeiro!",
@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Life is Strange aborda temas como bullying, depressão e complexidades nos relacionamentos familiares ao longo da narrativa.?",
+        enunciado: "Life is Strange aborda temas como bullying, depressão e complexidades nos relacionamentos familiares ao longo da narrativa.? ",
         alternativas: [
             {
                 texto: "verdadeiro!",
