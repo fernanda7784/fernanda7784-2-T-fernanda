@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "verdadeiro!",
-                afirmacao: "correto"
+                afirmacao: "CORRETO"
             },
             {
                 texto:  "falso!",
@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "verdadeiro!",
-                afirmacao: "correto"
+                afirmacao: "CORRETO"
             },
             {
                 texto: "falso!",
@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "verdadeiro!",
-                afirmacao: "correto"
+                afirmacao: "CORRETO"
             },
             {
                 texto: "falso!",
@@ -66,7 +66,7 @@ const perguntas = [
             },
             {
                 texto: "falso!",
-                afirmacao: "correto"
+                afirmacao: "CORRETO"
             }
         ]
     },
