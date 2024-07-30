@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto:  "falso!",
-                afirmacao: "errado"
+                afirmacao: "ERRADO"
             }
         ]
     },
@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "falso!",
-                afirmacao: "errado"
+                afirmacao: "ERRADO"
             }
         ]
     },
@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "falso!",
-                afirmacao: "errado"
+                afirmacao: "ERRADO"
             }
         ]
     },
@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "falso!",
-                afirmacao: "errado"
+                afirmacao: "ERRADO"
             }
         ]
     },
@@ -62,7 +62,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "verdadeiro!",
-                afirmacao: "errado"
+                afirmacao: "ERRADO"
             },
             {
                 texto: "falso!",
